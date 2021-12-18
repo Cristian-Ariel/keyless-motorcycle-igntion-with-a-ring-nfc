@@ -10,7 +10,8 @@ In the second page of the documentation, there is a brief description of how you
 
 
 ## Donations
-First off, thank you! I you find this project useful and would like to suppor it, you can but something on [this store](https://asyss-complex.creator-spring.com) or you can make a donation on [paypal](https://www.paypal.com/paypalme/Cristi4nAriel).
+First off, thank you! 
+If you find this project useful and would like to suppor it, you can buy something on [this store](https://asyss-complex.creator-spring.com) or you can make a donation on [paypal](https://www.paypal.com/paypalme/Cristi4nAriel).
 
 ## Enjoy!
 

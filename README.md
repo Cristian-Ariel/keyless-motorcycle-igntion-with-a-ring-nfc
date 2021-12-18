@@ -6,7 +6,11 @@ Please watch the video on [Youtube](https://www.youtube.com/channel/UC5zFth1xWRZ
 Lastly, make sure to read the documentation. There you will find the materials and tool to build the system as well as several sections where we discussed the working principles of the system more in detail. The rest of the files, code, PCB files, 3D files are locared in this repository.
 
 ## How do I contribute?
-First off, thank you for you time! In the second page of the documentation, there is a brief description of how you can do it. Since the whole system is an ongoing project, I wll update this page for any updates. 
+In the second page of the documentation, there is a brief description of how you can do it. Since the whole system is an ongoing project, I wll update this page for any updates. 
+
+
+## Donations
+First off, thank you! I you find this project useful and would like to suppor it, you can but something on [this store](https://asyss-complex.creator-spring.com) or you can make a donation on [paypal](https://www.paypal.com/paypalme/Cristi4nAriel).
 
 ## Enjoy!
 

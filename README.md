@@ -3,7 +3,7 @@ The purpose of this project is to turn on the ignition of a motorcycle with the 
 - System consumes no current when the motorycle is off to prevent discharging the battery.
 - Being able to save up to 128 different tags in memory which can be used as keys.
 - Access to "Modes" such as Save/Delete Tag Mode and Erase All Tags Mode.
-- Modular harware design for prototyping/updgrades.
+- Modular hardware design for prototyping/updgrades.
 - Warning sounds of the buzzer can customized.
 
 ## How do I build one?

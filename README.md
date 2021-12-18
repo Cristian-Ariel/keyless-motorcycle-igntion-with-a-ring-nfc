@@ -4,7 +4,6 @@ The purpose of this project is to turn on the ignition of a motorcycle with the 
 - Being able to save up to 128 different tags in memory which can be used as keys.
 - Access to "Modes" such as Save/Delete Tag Mode and Erase All Tags Mode.
 - Modular hardware design for prototyping/updgrades.
-- Warning sounds of the buzzer can customized.
 
 ## How do I build one?
 Please watch the video on [Youtube](https://www.youtube.com/channel/UC5zFth1xWRZ7Q3uHYjTIpnA) or [Odysee](https://www.youtube.com/channel/UC5zFth1xWRZ7Q3uHYjTIpnA).

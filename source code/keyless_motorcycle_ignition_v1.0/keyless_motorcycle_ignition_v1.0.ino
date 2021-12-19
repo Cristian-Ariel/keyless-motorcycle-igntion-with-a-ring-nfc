@@ -41,8 +41,8 @@ const byte POWER_PIN           = 13; // To N-channel MOSFET driving P-channel MO
 // Initialize global variables
 byte scannedTagUid[] = {0 ,0 ,0 ,0 ,0 ,0 ,0 }; // Stores returned UID number from NFC reader
 byte tagUidLength    = 0;                      // It can be 4 or 7 bytes depending on card type
-const byte MASTER_TAG_UID[] = {4, 203, 105, 74, 40, 99, 128}; // Replace it with your tag UID
-const byte MAX_NUM_TAGS     = 20; // Max number of tags that can be stored into EEPROM, limit is 128
+const byte MASTER_TAG_UID[] = {0, 0, 0, 0, 0, 0, 0}; // Replace it with your tag UID
+const byte MAX_NUM_TAGS     = 5; // Max number of tags that can be stored into EEPROM, limit is 128
 int tagExistsFlagAddress    = 0; // Updated by VerifyRegularKeyTagMatchAndGetTagExistsFlagAddress() 
                                  // and used by DeleteTagFromEeprom()
 bool masterTagUsedAsKey     = false;

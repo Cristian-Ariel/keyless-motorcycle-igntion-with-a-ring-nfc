@@ -5,8 +5,6 @@ The purpose of this project is to turn on the ignition of a motorcycle with the 
 - Access to "Modes" such as Save/Delete Tag Mode and Erase All Tags Mode.
 - Modular hardware design for prototyping/updgrades.
 
-[](https://youtu.be/Ip3jwV7dnoM/0.jpg)](https://youtu.be/Ip3jwV7dnoM)
-
 ## How do I build one?
 Please watch the video on [Youtube](https://youtu.be/Ip3jwV7dnoM) or [Odysee](https://odysee.com/@AsyssComplex:1/keyless.motorcycle.ignition.with.ring:4?r=8kbGTNhCZ6iqTXnwzbdhoQCgzBPm1UvK).
 Lastly, make sure to read [the documentation](https://drive.google.com/file/d/1D22VbdVqOc0YWlI75PouFQuNAUfmh6G7/view?usp=sharing). There you will find the materials and tools to build the system as well as several sections where we discuss the working principles of the system more in detail. The rest of the files, code, PCB files, 3D files are located in this repository.

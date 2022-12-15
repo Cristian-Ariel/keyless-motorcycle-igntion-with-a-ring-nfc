@@ -14,9 +14,6 @@ Lastly, make sure to read [the documentation](https://drive.google.com/file/d/1D
 ## How do I contribute?
 In the second page of the documentation, there is a brief description of how you can do it. Since the whole system is an ongoing project, I will edit this page and the description of the videos for future updates. Don't forget that you can also share your thoughts on the comment section of the videos.
 
-
-## Donations
-First off, thank you! 
 If you find this project useful and would like to support it, you can buy something (shirts, cups, stickers, etc.) on [this store](https://asyss-complex.creator-spring.com) or you can make a donation on [paypal](https://www.paypal.com/paypalme/Cristi4nAriel).
 
 ## Enjoy!

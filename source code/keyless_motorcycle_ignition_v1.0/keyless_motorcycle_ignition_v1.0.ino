@@ -110,10 +110,10 @@ enum SoundsNameList
   SAV_DEL_MODE_SOUND  = 3, // Fast
   ERASE_MEM_SOUND     = 4, // Extra fast 
 
-  TAG_SCANNED    = 5,  // Play every time we scan any tag 
-  ACCEPTED_TAG = 6,    // "" if either regular key tag or the master tag is scanned.
-                       //    It's also played when turning off motorcycle
-  UNKNOWN_TAG  = 7,    // "" if either the tag is invalid (UID != 7) or unknown
+  TAG_SCANNED   = 5,  // Play every time we scan any tag 
+  ACCEPTED_TAG  = 6,  // "" if either regular key tag or the master tag is scanned.
+                      //    It's also played when turning off motorcycle
+  UNKNOWN_TAG   = 7,  // "" if either the tag is invalid (UID != 7) or unknown
 
   ENTER_SAV_DEL_MODE   = 8,  // Play when master tag is scanned
   EXIT_SAV_DEL_MODE    = 9,  // "" when master tag is scanned

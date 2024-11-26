@@ -1,11 +1,11 @@
 # Keyless Motorcycle Ignition System with a Ring (NFC)
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/Ip3jwV7dnoM/sddefault.jpg)](https://youtu.be/Ip3jwV7dnoM)
 
-The purpose of this project is to turn on the ignition of a motorcycle with the use of a NFC tag (Near Field Communication). A couple of highlights of the system are: 
-- System consumes no current when the motorycle is off to prevent discharging the battery.
-- Being able to save up to 128 different tags in memory which can be used as keys.
-- Access to "Modes" such as Save/Delete Tag Mode and Erase All Tags Mode.
-- Modular hardware design for prototyping/updgrades.
+The purpose of the system is to enable the ignition of a motorcycle without the use of a physical key, by utilizing an NFC tag (Near Field Communication). A few key features of the system include:
+- Zero current consumption when the motorcycle is off, preventing battery discharge.
+- The ability to store up to 128 different tags in memory, which are used as keys.
+- Access to "Modes" such as Save/Delete Tag Mode and Erase All Tags Mode to prevent unauthorized use.
+- A modular hardware design for prototyping and upgrades to accommodate different motorcycle makes and models.
 
 ## How do I build one?
 Please watch the video on [Youtube](https://youtu.be/Ip3jwV7dnoM) or [Odysee](https://odysee.com/@AsyssComplex:1/keyless.motorcycle.ignition.with.ring:4?r=8kbGTNhCZ6iqTXnwzbdhoQCgzBPm1UvK).
